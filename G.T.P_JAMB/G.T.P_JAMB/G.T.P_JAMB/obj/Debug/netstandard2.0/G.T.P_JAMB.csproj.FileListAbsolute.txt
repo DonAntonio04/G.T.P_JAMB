@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.csproj.CoreCompileInputs.cache

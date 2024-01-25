@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\optimized\
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\G.T.P_JAMB.iOS.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB.iOS\obj\iPhone\Debug\G.T.P_JAMB.iOS.csproj.CoreCompileInputs.cache
