@@ -18,6 +18,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="View\" />
+    <EmbeddedResource Update="View\ListaTarea.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="View\RegistrarTarea.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModel\SwipeView\" />
   </ItemGroup>
 </Project>

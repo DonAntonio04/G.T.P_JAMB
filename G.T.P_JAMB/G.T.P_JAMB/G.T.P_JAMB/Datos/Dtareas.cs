@@ -1,8 +1,10 @@
-﻿using Firebase.Database.Query;
+﻿using Firebase.Database;
+using Firebase.Database.Query;
 using G.T.P_JAMB.Conexion;
 using G.T.P_JAMB.Model;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,10 +21,18 @@ namespace G.T.P_JAMB.Datos
                     IdTarea = Guid.NewGuid(),
                     Titulo = parametros.Titulo,
                     Descripcion = parametros.Descripcion,
-                    Estado = parametros.Estado,
+                    Estatus = parametros.Estatus,   
                 }   
                 );    
             
+        }
+        public async Task<ObservableCollection<Mtareas>>MostrarTarea()
+        {
+            var data = await Task.Run(() => Cconexioon.firebase
+            .Child("Tareas")
+            .AsObservable<Mtareas>()
+            .AsObservableCollection());
+            return data;
         }
     }
 }

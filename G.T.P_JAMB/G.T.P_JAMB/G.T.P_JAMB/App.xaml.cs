@@ -1,4 +1,5 @@
-﻿using System;
+﻿using G.T.P_JAMB.View;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace G.T.P_JAMB
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new ListaTarea());
         }
 
         protected override void OnStart()

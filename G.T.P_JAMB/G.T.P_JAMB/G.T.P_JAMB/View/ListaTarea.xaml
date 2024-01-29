@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="G.T.P_JAMB.View.ListaTarea"
+             NavigationPage.HasNavigationBar="False">
+    <Grid RowDefinitions="60,*"
+          BackgroundColor="Yellow">
+        <Label Text="Gestión de tareas pendientes"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="28"
+               FontAttributes="Bold"
+               TextColor="Black">
+            
+        </Label>
+        <CollectionView BackgroundColor="#EAEDEC"
+             Grid.Row="1"
+             ItemsSource="{Binding Listatarea}"
+             Margin="0,10,0,0"
+             SelectionMode="Single"
+            >
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical"
+              Span="2"
+              HorizontalItemSpacing="10"
+              VerticalItemSpacing="10"
+               />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame
+                BackgroundColor="LightYellow"
+                CornerRadius="10"
+                Padding="35"
+                Margin="10">
+                        <StackLayout VerticalOptions="Center">
+                            <Label
+                        Text="{Binding Titulo}"
+                        FontSize="Medium"
+                        FontAttributes="Bold"
+                        HorizontalOptions="Center" />
+                            <Label
+                        Text="{Binding Descripcion}"
+                        FontSize="Small"
+                        LineBreakMode="WordWrap"
+                        Margin="10,0,10,10" />
+                            <Label
+                                Text="{Binding Estatus}"
+                                FontSize="Small"
+                                Margin="10,0,10,10"/>
+                        </StackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+
+        <Button Text="+"
+         Grid.Row="1"
+         HeightRequest="100"
+         WidthRequest="100"
+         VerticalOptions="End"
+         HorizontalOptions="End"
+         CornerRadius="50"
+         Margin="15"
+         FontSize="50"
+         FontAttributes="Bold"
+         BackgroundColor="#FFD755"
+         Command="{Binding Iraregistrocommand}">
+
+        </Button>
+
+    </Grid>
+</ContentPage>

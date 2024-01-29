@@ -5,3 +5,13 @@ C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\
 C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.AssemblyInfo.cs
 C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\bin\Debug\netstandard2.0\G.T.P_JAMB.deps.json
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\bin\Debug\netstandard2.0\G.T.P_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\bin\Debug\netstandard2.0\ref\G.T.P_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\bin\Debug\netstandard2.0\G.T.P_JAMB.pdb
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\refint\G.T.P_JAMB.dll
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\G.T.P_JAMB.pdb
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\View\RegistrarTarea.xaml.g.cs
+C:\Users\hp\Desktop\Ejercios_Miguel\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\G.T.P_JAMB\obj\Debug\netstandard2.0\View\ListaTarea.xaml.g.cs

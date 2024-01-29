@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="G.T.P_JAMB.View.RegistrarTarea"
+            NavigationPage.HasNavigationBar="False">
+    <Grid RowDefinitions="80,*"
+          BackgroundColor="Orange">
+        <StackLayout Orientation="Horizontal" Padding="16">
+            <Image Source="haciaatras.png" WidthRequest="80">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="{Binding RegresarCommand}"/>
+                </Image.GestureRecognizers>
+            </Image>
+        </StackLayout>
+        <StackLayout Grid.Row="1" Margin="10">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Título: " 
+                       TextColor="Black" 
+                       FontAttributes="Bold" 
+                       VerticalOptions="Center" 
+                       FontSize="18"
+                       Margin="150,0,100,0"></Label>
+            </StackLayout>
+            <StackLayout>
+                <Editor Placeholder="Ingrese el título de la tarea" 
+                 FontAttributes="Bold"
+                  TextColor="White" 
+                  PlaceholderColor="White" 
+                  TextTransform="Lowercase"
+                  HorizontalOptions="StartAndExpand" 
+                  AutoSize="TextChanges"
+                   Margin="70,0,30,0"
+                  Text="{Binding TxtTitulo }"></Editor>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Descripción: " 
+            TextColor="Black" 
+            FontAttributes="Bold" 
+            VerticalOptions="Center" 
+            FontSize="18"
+            Margin="150,0,100,0"></Label>
+            </StackLayout>
+            <StackLayout>
+                <Editor Placeholder="Ingrese la descripción de la tarea" 
+                  FontAttributes="Bold"
+                   TextColor="White" 
+                 PlaceholderColor="White" 
+                  TextTransform="Lowercase"
+                   HorizontalOptions="StartAndExpand" 
+                    AutoSize="TextChanges"
+                  Margin="70,0,30,0"
+                  Text="{Binding TxtDescripcion }"></Editor>
+                   </StackLayout>
+            <StackLayout  Orientation="Horizontal">
+                 <Label Text="Estatus: " 
+                       TextColor="Black" 
+                     FontAttributes="Bold" 
+                       VerticalOptions="Center" 
+                     FontSize="18"
+                       Margin="150,0,100,0"></Label>
+            </StackLayout>
+            <StackLayout>
+                <Editor Placeholder="Ingrese el estatus de la tarea" 
+                  FontAttributes="Bold"
+                  TextColor="White" 
+                  PlaceholderColor="White" 
+                   TextTransform="Lowercase"
+                   HorizontalOptions="StartAndExpand" 
+                   AutoSize="TextChanges"
+                  Margin="70,0,30,0"
+                   Text="{Binding TxtEstatus }"></Editor>
+            </StackLayout>
+
+
+
+
+
+            <Frame HorizontalOptions="Center"
+          Padding="6" Margin="0,10,0,0"
+          CornerRadius="15" 
+          HasShadow="False"
+          BackgroundColor="#FEC100">
+                <Button Text="+"
+               HorizontalOptions="Center"
+               BackgroundColor="#FEC100"
+               BorderColor="#FFE488"
+               BorderWidth="6"
+               CornerRadius="15"
+               FontAttributes="25"
+               WidthRequest="60"
+               HeightRequest="60"
+               Command="{Binding Insertarcommand}">
+
+                </Button>
+            </Frame>
+        </StackLayout>
+    </Grid>
+</ContentPage>
